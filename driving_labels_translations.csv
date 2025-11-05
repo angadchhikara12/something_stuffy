@@ -1,0 +1,51 @@
+key,en,es,fr,pt,zh
+take_course,Take Course,Tomar Curso,Suivre le cours,Fazer Curso,参加课程
+start_test,Start Test,Iniciar Prueba,Commencer le test,Iniciar Test,开始测试
+driving_schools,Driving Schools,Escuelas de Conducción,Écoles de conduite,Escolas de Condução,驾校
+settings,Settings,Ajustes,Paramètres,Configurações,设置
+drivers_manual,Driver's Manual,Manual del Conductor,Manuel du conducteur,Manual do Motorista,驾驶手册
+traffic_signs,Traffic Signs,Señales de Tráfico,Panneaux de signalisation,Sinais de Trânsito,交通标志
+favorite,Favorite,Favorito,Favori,Favorito,收藏
+faqs,FAQs,Preguntas Frecuentes,FAQ,Perguntas Frequentes,常见问题
+enter_zip,Enter ZIP code,Ingrese el Código Postal,Entrez le code postal,Digite o CEP,输入邮政编码
+search,Search,Buscar,Rechercher,Pesquisar,搜索
+no_schools_zip,No driving schools found in this ZIP code.,No se encontraron escuelas de conducción en este código postal.,Aucune école de conduite trouvée dans ce code postal.,Nenhuma escola de condução encontrada neste CEP.,此邮政编码未找到驾校
+no_schools_show,No schools to show.,No hay escuelas para mostrar.,Aucune école à afficher,Nenhuma escola para mostrar,没有学校可显示
+select_vehicle_type,Select Vehicle Type,Seleccionar Tipo de Vehículo,Sélectionner le type de véhicule,Selecionar Tipo de Veículo,选择车辆类型
+bike,Bike,Bicicleta,Vélo,Bicicleta,自行车
+car,Car,Coche,Voiture,Carro,汽车
+cdl,CDL,Licencia Comercial de Conducir,Permis de conduire commercial,Licença Comercial de Motorista,商业驾驶执照
+select_test_type,Select Test Type,Seleccionar Tipo de Prueba,Sélectionner le type de test,Selecionar Tipo de Test,选择测试类型
+back,← Back,← Atrás,← Retour,← Voltar,← 返回
+select_cdl_category,Select CDL Test Category,Seleccionar Categoría de Prueba CDL,Sélectionner la catégorie du test CDL,Selecionar Categoria do Teste CDL,选择 CDL 测试类别
+general_knowledge,General Knowledge,Conocimientos Generales,Connaissances Générales,Conhecimentos Gerais,基础知识
+combination,Combination,Combinación,Combinaison,Combinação,组合
+air_brakes,Air Brakes,Frenos de Aire,Frein à Air,Freios a Ar,气刹
+hazards,Hazards,Peligros,Dangers,Riscos,危险
+passenger,Passenger,Pasajero,Passager,Passageiro,乘客
+doubles_triples,Doubles/Triples,Dobles/Triples,Doubles/Triples,Duplos/Triplos,双/三联车
+tank,Tank,Tanque,Réservoir,Tanque,油罐车
+school_bus,School Bus,Autobús Escolar,Autobus Scolaire,Ônibus Escolar,校车
+abs,ABS,ABS,ABS,ABS,防抱死刹车系统
+car_quiz,Car Quiz,Cuestionario de Automóvil,Quiz de Voiture,Questionário de Carro,汽车测验
+quiz_completed,Quiz Completed!,¡Cuestionario Completado !,Quiz Terminé !,Questionário Concluído!,测验完成！
+score,Score,Puntuación,Score,Pontuação,分数
+restart_quiz,Restart Quiz,Reiniciar Cuestionario,Redémarrer le Quiz,Reiniciar Questionário,重新开始测验
+next_question,Next Question,Siguiente Pregunta,Question Suivante,Próxima Pergunta,下一个问题
+finish_quiz,Finish Quiz,Finalizar Cuestionario,Terminer le Quiz,Finalizar Questionário,完成测验
+close_restart,Close / Restart,Cerrar / Reiniciar,Fermer / Redémarrer,Fechar / Reiniciar,关闭 / 重新开始
+q1_what_red_light,What does a red traffic light mean?,¿Qué significa un semáforo en rojo ?,Que signifie un feu rouge ?,O que significa um semáforo vermelho?,红灯表示什么？
+q1_option1,Stop,Detener,Arrêter,Parar,停止
+q1_option2,Go,Avanzar,Aller,Avançar,通过
+q1_option3,Slow Down,Reducir Velocidad,Ralentir,Reduzir a Velocidade,减速
+q1_option4,Yield,Ceder el Paso,Cédez le passage,Dê a Preferência,让行
+q2_when_use_signals,When should you use your turn signals?,¿Cuándo debes usar tus señales de giro ?,Quand devez-vous utiliser vos clignotants ?,Quando você deve usar suas setas ?,何时应使用转向灯？
+q2_option1,Only at night,Solo de noche,Seulement la nuit,Apenas à noite,仅在夜间
+q2_option2,Every turn,Cada giro,À chaque virage,A cada curva,每次转弯
+q2_option3,Only on highways,Solo en autopistas,Seulement sur les autoroutes,Apenas em rodovias,仅在高速公路上
+q2_option4,Never,Nunca,Jamais,Nunca,从不
+q3_speed_limit_school,What is the speed limit in a school zone?,¿Cuál es el límite de velocidad en una zona escolar ?,Quelle est la limite de vitesse dans une zone scolaire ?,Qual é o limite de velocidade em uma zona escolar ?,学校区限速是多少？
+q3_option1,15 mph,15 mph,15 mph,15 mph,15 英里/小时
+q3_option2,25 mph,25 mph,25 mph,25 mph,25 英里/小时
+q3_option3,35 mph,35 mph,35 mph,35 mph,35 英里/小时
+q3_option4,45 mph,45 mph,45 mph,45 mph,45 英里/小时
